@@ -1,0 +1,11 @@
+package %class_path%;
+
+import java.io.Serializable;
+import java.math.BigDecimal;
+import java.sql.Timestamp;
+
+public class %class_name% implements Serializable {
+	private static final long serialVersionUID = 1L;
+	
+	%class_context%
+}

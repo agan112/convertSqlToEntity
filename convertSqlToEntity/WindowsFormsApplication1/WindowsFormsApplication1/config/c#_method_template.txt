@@ -1,0 +1,5 @@
+public %field_type% %Field_name%
+{
+	get { return %field_name%; }
+	set { %field_name% = value; }
+}
